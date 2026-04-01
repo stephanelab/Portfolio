@@ -22,6 +22,11 @@
     background-color: #5b5b5b;
 }
 
+/* Align items on the rightwhen collapse is open */
+.navbar-nav {
+    align-items: flex-end;
+}
+
 /* hero background image */
 .bgimage {
     height: 100vh;
