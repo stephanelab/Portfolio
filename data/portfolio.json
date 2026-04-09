@@ -2,33 +2,33 @@
   {
     "image": "booki.webp",
     "title": "Booki",
-    "text": "Découverte du HTML et du CSS.",
+    "text": "Intégration de la page d’accueil du site Booki à partir d’une maquette Figma en HTML et CSS.<br>J’ai porté une attention particulière au respect des spécifications (maquette, responsive design) ainsi qu’à la validation de la conformité visuelle et fonctionnelle de l’interface, afin de garantir une expérience utilisateur cohérente.",
     "link": "https://github.com/stephanelab/Booki.git",
     "websiteLink": "https://stephanelab.github.io/Booki/"
   },
   {
     "image": "logo_printIt.webp",
     "title": "Print-it",
-    "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "text": "Développement des fonctionnalités dynamiques du site PrintIt en JavaScript, notamment la mise en place d’un carrousel interactif.<br>J’ai porté une attention particulière à la validation des comportements attendus (navigation, états, interactions utilisateur), ainsi qu’à l’identification et la correction d’anomalies afin de garantir une expérience utilisateur fluide.",
     "link": "https://github.com/stephanelab/Print-it-JS.git",
     "websiteLink": "https://stephanelab.github.io/Print-it-JS/"
   },
   {
     "image": "Sophie_Bluel.webp",
     "title": "Sophie Bluel",
-    "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "text": "Développement d’une application web dynamique avec intégration d’une API et mise en place d’un système d’authentification.<br>J’ai porté une attention particulière à la validation des échanges avec l’API (requêtes HTTP, gestion des erreurs, cohérence des données) ainsi qu’au test des fonctionnalités sensibles comme l’authentification et la gestion des contenus.",
     "link": "https://github.com/stephanelab/Sophie_Bluel.git"
   },
   {
     "image": "image3.webp",
     "title": "Kasa",
-    "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "text": "Développement d’une application web en React avec gestion de composants dynamiques et du routage.<br>J’ai porté une attention particulière à la validation du comportement des composants (affichage conditionnel, interactions utilisateur, gestion des états) ainsi qu’à la vérification de la navigation et des cas limites (routes inexistantes, erreurs).",
     "link": "https://github.com/stephanelab/Kasa.git"
   },
   {
     "image": "logo_ecoBlissBath.webp",
     "title": "Eco Bliss Bath",
-    "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "text": "Optimisation d’un site web existant en travaillant sur les performances, l’accessibilité et le référencement.<br>J’ai porté une attention particulière à l’analyse des anomalies (performance, accessibilité) ainsi qu’à la validation des améliorations mises en place, afin de garantir une expérience utilisateur fluide et conforme aux bonnes pratiques.",
     "link": "https://github.com/stephanelab/Eco-Bliss-Bath.git"
   }
 ]
