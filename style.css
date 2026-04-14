@@ -5,8 +5,8 @@
 #portfolio,
 #contact,
 #tools {
-  margin-top: 4rem;
-  padding-top: 4rem;
+  /* margin-top: 4rem; */
+  padding: 4rem 0;
 }
 #about h2,
 #skills h2,
@@ -19,16 +19,27 @@
   padding-bottom: 4rem;
 }
 
+#skills,
+#tools {
+  background-color: var(--bs-gray-200);
+}
+
 /* display background dark color on navbar scroll */
 .navbarScroll.navbarDark {
-  background-color: #5b5b5b;
+  background-color: var(--bs-dark);
 }
 
-/* Align items on the rightwhen collapse is open */
+/* Align items on the right when collapse is open */
 .navbar-nav {
   align-items: flex-end;
+  --bs-navbar-color: white;
 }
 
+.nav-link.active {
+  color: var(--bs-warning) !important;
+  text-decoration: underline;
+  /* font-weight: bold; */
+}
 /* hero background image */
 .bgimage {
   height: 100vh;

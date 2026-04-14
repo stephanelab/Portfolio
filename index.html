@@ -1,9 +1,13 @@
 <!doctype html>
-<html lang="fr">
+<html lang="fr-FR">
   <head>
     <title>Portfolio Stéphane LABROT</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Portfolio de Stéphane, testeur logiciel junior en reconversion. Découvrez ses projets, ses compétences en test logiciel (Cypress, API, QA) et son approche orientée qualité."
+    />
     <!-- linking css file -->
     <link rel="stylesheet" href="style.css" />
     <!-- bootstrap CDN -->
@@ -20,9 +24,12 @@
     />
   </head>
 
-  <body>
+  <body data-bs-spy="scroll" data-bs-target="#navbar" tabindex="0">
     <!-- navbar -->
-    <nav class="navbar navbar-expand-lg fixed-top navbar-dark navbarScroll">
+    <nav
+      id="navbar"
+      class="navbar navbar-expand-lg fixed-top navbar-dark navbarScroll"
+    >
       <div class="container">
         <a class="navbar-brand" href="#">Stéphane LABROT</a>
         <button
@@ -78,7 +85,7 @@
 
     <!-- about section-->
     <section id="about">
-      <div class="container mt-4 pt-4">
+      <div class="container pt-4">
         <h2 class="text-center">A propos</h2>
         <div class="row mt-4">
           <div class="col-lg-4">
@@ -131,7 +138,7 @@
 
     <!-- portfolio section-->
     <section id="portfolio">
-      <div class="container mt-3">
+      <div class="container">
         <h2 class="text-center">Mes projets</h2>
         <p class="text-start">
           Ces projets m’ont permis de mettre en pratique différentes approches
@@ -157,7 +164,7 @@
 
     <!-- contact section-->
     <section id="contact">
-      <div class="container mt-3 contactContent">
+      <div class="container contactContent">
         <h2 class="text-center">Contactez-moi</h2>
         <div class="row">
           <div class="col-lg-4 mt-4 contactColumn">
