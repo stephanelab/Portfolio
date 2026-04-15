@@ -40,6 +40,19 @@
   text-decoration: underline;
   /* font-weight: bold; */
 }
+
+.navbar:not(.navbarDark) .navbar-collapse.collapsing,
+.navbar:not(.navbarDark) .navbar-collapse.show {
+  background: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(10px);
+  border-radius: 12px;
+}
+
+.navbar-collapse.collapsing,
+.navbar-collapse.show {
+  margin-top: 10px;
+}
+
 /* hero background image */
 .bgimage {
   height: 100vh;
