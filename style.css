@@ -50,6 +50,15 @@
   background-size: cover;
   position: relative;
 }
+
+.bgimage a {
+  margin-top: 8rem;
+}
+
+.bgimage a:hover {
+  box-shadow: 0 0 15px rgba(255, 193, 7, 0.8);
+}
+
 /* text css above hero image*/
 .hero_title {
   font-size: 4.5rem;
