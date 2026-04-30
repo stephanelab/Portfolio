@@ -35,12 +35,13 @@
   --bs-navbar-color: white;
 }
 
+/* Modification of active link style in navbar */
 .nav-link.active {
   color: var(--bs-warning) !important;
   text-decoration: underline;
-  /* font-weight: bold; */
 }
 
+/* Add a subtle background and blur effect to the collapsed menu on small devices */
 .navbar:not(.navbarDark) .navbar-collapse.collapsing,
 .navbar:not(.navbarDark) .navbar-collapse.show {
   background: rgba(0, 0, 0, 0.5);
@@ -146,4 +147,5 @@
   --bs-tooltip-arrow-width: 1.5rem;
   --bs-tooltip-opacity: 1;
 }
+
 /* footer */
