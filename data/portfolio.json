@@ -28,7 +28,7 @@
   {
     "image": "logo_ecoBlissBath.webp",
     "title": "Eco Bliss Bath",
-    "text": "Optimisation d’un site web existant en travaillant sur les performances, l’accessibilité et le référencement.<br>J’ai porté une attention particulière à l’analyse des anomalies (performance, accessibilité) ainsi qu’à la validation des améliorations mises en place, afin de garantir une expérience utilisateur fluide et conforme aux bonnes pratiques.",
+    "text": "Projet de test logiciel sur une application e-commerce, centré sur la validation des fonctionnalités et la qualité globale.<br>J’ai porté une attention particulière à l’automatisation des tests en mettant en place des scénarios end-to-end avec Cypress (API, smoke tests, tests fonctionnels) ainsi que la détection de failles XSS.",
     "link": "https://github.com/stephanelab/Eco-Bliss-Bath.git"
   }
 ]
