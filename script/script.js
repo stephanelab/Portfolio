@@ -81,7 +81,7 @@ function createPortfolioFromJSON() {
                         <p class="card-text">${item.text}</p>
                     </div>
                     <div class="card-footer text-center">
-                            <a href="${item.link}" class="btn btn-success" target="_blank">Lien</a>
+                            <a href="${item.link}" class="btn btn-success" target="_blank">Lien GitHub</a>
                             ${item.websiteLink ? `<a href="${item.websiteLink}" class="btn btn-primary ms-2" target="_blank">Site Web</a>` : ""}
                     </div>
                     
